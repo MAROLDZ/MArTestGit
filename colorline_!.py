@@ -62,7 +62,7 @@ evem more information
 ##x = np.random.rand(N)
 ##y = np.random.rand(N)
 ##fig, ax = plt.subplots()
-##
+## This is just comment
 ##path = mpath.Path(np.column_stack([x, y]))
 ##verts = path.interpolated(steps=3).vertices
 ##x, y = verts[:, 0], verts[:, 1]
