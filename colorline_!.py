@@ -4,7 +4,6 @@ Created on Mon Jul 18 13:33:41 2016
 
 @author: OldzieMa
 Added more inforoatoi about the project 
-evem more information
 """
 
 #import matplotlib.pyplot as plt
